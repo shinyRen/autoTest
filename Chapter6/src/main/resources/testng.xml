@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="mySuite">
+    <test name="myTest">
+        <classes>
+            <class name="com.tester.extent.demo.TestMethodsDemo">
+                <methods>
+                    <include name="test1"></include>
+                    <include name="test2"></include>
+                    <include name="test3"></include>
+                    <include name="logDemo"></include>
+
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <listeners>
+        <!--
+
+        原始的监听器，不能加载样式
+         <listener class-name="com.vimalselvam.testng.listener.ExtentTestNgFormatter"></listener>
+
+
+
+        -->
+        <listener class-name="com.tester.extent.demo.ExtentTestNGIReporterListener"></listener>
+    </listeners>
+</suite>
