@@ -4,3 +4,5 @@
 server type: http    https   socket
 
 java -jar ./moco-runner-0.12.0-standalone.jar http -p 8877 -c startup.json
+
+java -jar ./moco-runner-0.12.0-standalone.jar http -p 8899 -c startupWithCookies.json
