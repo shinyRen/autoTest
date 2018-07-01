@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7394b41a-f4dc-4e87-8f4b-796ec3a94d1d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9/Chapter9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9/src/main/java/com/course/cookies/MyCookiesForGet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9/src/main/java/com/course/cookies/MyCookiesForPost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9/src/main/java/com/course/demo/MyHttpClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter6/Chapter6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter6/Chapter6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter7/startupWithCookies.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter7/startupWithCookies.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter7/基本操作说明" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter7/基本操作说明" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7394b41a-f4dc-4e87-8f4b-796ec3a94d1d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/Chapter5/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Chapter6/target/" />
@@ -106,8 +84,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="912" />
-    <option name="y" value="21" />
+    <option name="x" value="515" />
+    <option name="y" value="46" />
     <option name="width" value="1345" />
     <option name="height" value="930" />
   </component>
@@ -125,6 +103,11 @@
             <path>
               <item name="autoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="autoTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter7" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -377,7 +360,7 @@
       <workItem from="1530023446386" duration="5282000" />
       <workItem from="1530196412042" duration="3436000" />
       <workItem from="1530368158491" duration="6190000" />
-      <workItem from="1530446876513" duration="4173000" />
+      <workItem from="1530446876513" duration="4678000" />
     </task>
     <task id="LOCAL-00001" summary="mock">
       <created>1530029140387</created>
@@ -429,10 +412,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20168000" />
+    <option name="totallyTimeSpent" value="20673000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="912" y="21" width="1345" height="930" extended-state="0" />
+    <frame x="515" y="46" width="1345" height="930" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -444,8 +427,8 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32938188" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32976827" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3684896" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.30078125" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3684896" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.30078125" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20622568" />
