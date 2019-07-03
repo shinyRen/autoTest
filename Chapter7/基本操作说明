@@ -1,0 +1,8 @@
+启动命令：
+-p 8888 ：端口号
+-c json文件的路径（相对路径或者绝对路劲都可以，但是路径都是相对于使用java命令的路径）
+server type: http    https   socket
+
+java -jar ./moco-runner-0.12.0-standalone.jar http -p 8877 -c startup.json
+
+java -jar ./moco-runner-0.12.0-standalone.jar http -p 8899 -c startupWithCookies.json
